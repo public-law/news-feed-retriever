@@ -5,3 +5,5 @@ TODO: Write a description
 ## News Sources
 
 ## Destination Queue
+
+## Implementation Notes
